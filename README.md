@@ -1,5 +1,10 @@
 # 📘 Guia Prático do GLI (GitHub Login Integration)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+![GitHub Pages](https://img.shields.io/github/deployments/PadawanXXVI/manual-gli/github-pages?label=pages&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/PadawanXXVI/manual-gli)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PadawanXXVI/manual-gli)
+
 Este repositório contém um **manual prático e didático** sobre como utilizar o **GitHub Login Integration (GLI)** em conjunto com o **Visual Studio Code** e o **GitHub CLI**, focado no sistema **Windows**.  
 
 O material foi pensado para **iniciantes absolutos**, mas também pode servir como referência rápida para usuários mais experientes.  
@@ -57,4 +62,6 @@ Mesmo assim, já é possível acompanhar o progresso!
 ---
 
 ## 📜 Licença
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
+Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.  
+Uma **tradução em português-br** foi adicionada apenas para referência.
+
