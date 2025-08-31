@@ -86,8 +86,8 @@ Se todos responderem com suas versões, seu ambiente está pronto. ✅
 
 ## Conclusão
 Você já preparou todas as ferramentas necessárias!  
-No próximo capítulo, vamos explorar os **terminais** no Windows e entender por que priorizamos o **Git Bash**.  
+No próximo capítulo, vamos explorar os **terminais** no Windows e entender por que priorizamos o **Git Bash**.
 
 ---
 
-⬅️ [Voltar ao Capítulo 02 – Conceitos](./02-conceitos.md) | [Avançar para o Capítulo 04 – Terminais](./04-terminais.md) ➡️
+✅ **Próximo passo**: avançar para o [Capítulo 04 – Terminais](./04-terminais.md).
